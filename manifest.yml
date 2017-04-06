@@ -1,0 +1,5 @@
+---
+applications:
+ - name: retirementbot_dem
+   random-route: true
+   memory: 128M
